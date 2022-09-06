@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TOMER628
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter,Dart
 
 
 <!---
