@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TOMER628
-- 🌱 I’m currently learning Flutter,Dart
+- 🌱 Flutter Developer
 
 
 <!---
